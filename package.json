@@ -1,0 +1,13 @@
+{
+  "name": "et001-json-script",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

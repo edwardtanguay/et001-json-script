@@ -1,0 +1,17 @@
+[
+  {
+    "firstName": "Andreas",
+    "lastName": "Schmolke",
+    "position": "developer"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Schulz",
+    "position": "CEO"
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Himmelton",
+    "position": "marketing director"
+  }
+]
